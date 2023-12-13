@@ -1,0 +1,11 @@
+Transformation process:
+
+1.Renaming Tables and Columns as per the reporting format.
+
+2.Promoting Row to header.
+
+3.Data Type Checking
+
+4.Replacing Null Values.
+
+
